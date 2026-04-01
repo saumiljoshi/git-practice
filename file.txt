@@ -1,6 +1,2 @@
-Hello guyzzzz....
-good afternoon
-kaise ho aap sab log
-welcome to my new channel
->>>>>>> b1
+version in master
 
